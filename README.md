@@ -59,7 +59,7 @@
   **abhishekrangani222@gmail.com**
 
 - 📄 Know about my experiences  
-  **https://drive.google.com/drive/folders/1Z_XyCUqTOxnmLTWjdaqHp86i5LmZ0VTj**
+  **https://drive.google.com/file/d/1RcB6yhHEZOS5iw6BWMysxIY7VIv6wNQ1/view?usp=sharing**
 
 ---
 
