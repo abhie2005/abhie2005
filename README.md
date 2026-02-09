@@ -40,19 +40,19 @@
 
 - 🔭 I’m currently working on **[Crease](https://github.com/abhie2005/Crease)**
 
-- 🌱 I’m currently learning  
+- I’m currently learning  
   **Crease — a production-ready React Native app featuring real-time scoring, role-based access control, Firebase-backed auth, and live data synchronization**
 
-- 👯 I’m looking to collaborate on  
+- I’m looking to collaborate on  
   **Early-stage products, mobile/web apps, or developer tools**
 
-- 🤝 I’m looking for help with  
+- I’m looking for help with  
   **Testing strategies, QA automation, and reliability practices for real-world apps**
 
-- 👨‍💻 All of my projects are available at  
+- All of my projects are available at  
   **https://github.com/abhie2005**
 
-- 💬 Ask me about  
+- Ask me about  
   **React Native, Firebase, Expo Router, full-stack apps, testing, or debugging messy real-world flows**
 
 - 📫 How to reach me  
