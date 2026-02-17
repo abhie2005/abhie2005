@@ -2,7 +2,7 @@
 
   <img align = "left"
     src="https://komarev.com/ghpvc/?username=abhie2005&label=Profile%20views&color=0e75b6&style=flat"
-    alt="abhie200"
+    alt="abhie2005"
   />
 
 <p align="right">
