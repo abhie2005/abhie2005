@@ -51,8 +51,7 @@
 - Ask me about  
   **React Native, Firebase, Expo Router, full-stack apps, testing, or debugging messy real-world flows**
 
-- 📫 How to reach me  
-  **abhishekrangani222@gmail.com**
+- 📫 How to reach me **abhishekrangani222@gmail.com**
 
 - 📄 Know about my experiences 
   **https://drive.google.com/file/d/1RcB6yhHEZOS5iw6BWMysxIY7VIv6wNQ1/view?usp=sharing**
