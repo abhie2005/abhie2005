@@ -40,7 +40,7 @@
 
 - 🔭 I'm currently working on **[Crease](https://github.com/abhie2005/Crease)**
 
-- I’m currently learning  
+- I’m currently working on   
   **Crease — a production-ready React Native app featuring real-time scoring, role-based access control, Firebase-backed auth, and live data synchronization**
 
 - I’m looking to collaborate on  
