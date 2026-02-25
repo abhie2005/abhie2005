@@ -49,7 +49,7 @@
 - All of my projects are available at **[Github](https://github.com/abhie2005)**
 
 - Ask me about  
-  **React Native, Firebase, Expo Router, full-stack apps, testing, or debugging messy real-world flows**
+  **React Native, Firebase, MongoDB , Expo Router, full-stack apps, testing, or debugging messy real-world flows**
 
 - 📫 How to reach me **abhishekrangani222@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/abhishek-rangani/)**
 
