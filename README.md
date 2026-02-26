@@ -51,7 +51,7 @@
 - Ask me about  
   **React Native, Firebase, MongoDB , Expo Router, full-stack apps, testing, or debugging messy real-world flows**
 
-- 📫 How to reach me **abhishekrangani222@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/abhishek-rangani/)**
+- 📫 How to reach me : **abhishekrangani222@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/abhishek-rangani/)**
 
 - 📄 Know about my experiences : 
   **https://drive.google.com/file/d/1RcB6yhHEZOS5iw6BWMysxIY7VIv6wNQ1/view?usp=sharing**
