@@ -54,7 +54,7 @@
 - 📫 How to reach me : **abhishekrangani222@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/abhishek-rangani/)**
 
 - 📄 Know about my experiences : 
-  **https://drive.google.com/file/d/1RcB6yhHEZOS5iw6BWMysxIY7VIv6wNQ1/view?usp=sharing**
+  **https://drive.google.com/file/d/1HUU7U3ZlqO_wz0PmtXMvDa6kU3_Rleb7/view?usp=sharing**
 
 ---
 
