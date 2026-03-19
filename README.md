@@ -41,7 +41,7 @@
 - I’m currently working on **[Crease](https://github.com/abhie2005/Crease)** — a production ready React Native app featuring real time scoring, role based access control, Firebase backed auth, and live data synchronization**
 
 - I’m looking to collaborate on  
-  **Early stage products, mobile/web apps, or developer tools**
+  **Early-stage products, mobile/web apps, or developer tools**
 
 - I’m looking for help with  
   **Testing strategies, QA automation, and reliability practices for real-world apps**
