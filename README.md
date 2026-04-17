@@ -54,8 +54,38 @@
   **[Resume](https://drive.google.com/file/d/12vJPmf3pcXZT9WHIEklJhu93fSDTnBpW/view?usp=sharing)**
 
 ---
+<h3 align="left">Tech Stack</h3>
 
+<p>
+<a href="https://reactnative.dev/">React Native</a> • 
+<a href="https://reactjs.org/">React</a> • 
+<a href="https://nodejs.org/">Node.js</a> • 
+<a href="https://expressjs.com/">Express</a> • 
+<a href="https://www.mongodb.com/">MongoDB</a> • 
+<a href="https://www.mysql.com/">MySQL</a> • 
+<a href="https://www.sqlite.org/">SQLite</a> • 
+<a href="https://firebase.google.com/">Firebase</a> • 
+<a href="https://cloud.google.com/">GCP</a> • 
+<a href="https://www.typescriptlang.org/">TypeScript</a> • 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> • 
+<a href="https://www.python.org/">Python</a> • 
+<a href="https://www.java.com/">Java</a> • 
+<a href="https://www.w3schools.com/cpp/">C++</a> • 
+<a href="https://flutter.dev/">Flutter</a> • 
+<a href="https://tailwindcss.com/">Tailwind</a> • 
+<a href="https://www.w3.org/html/">HTML</a> • 
+<a href="https://www.w3schools.com/css/">CSS</a> • 
+<a href="https://git-scm.com/">Git</a> • 
+<a href="https://www.linux.org/">Linux</a> • 
+<a href="https://pandas.pydata.org/">Pandas</a> • 
+<a href="https://d3js.org/">D3.js</a> • 
+<a href="https://www.chartjs.org/">Chart.js</a> • 
+<a href="https://dart.dev/">Dart</a> • 
+<a href="https://expo.dev/">Expo</a> • 
+<a href="https://www.photoshop.com/">Photoshop</a>
+</p>
 
+---
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhie2005&" alt="abhie2005" />
 </p>
