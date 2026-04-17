@@ -6,26 +6,23 @@
   />
 
 <p align="right">
-  <a href="https://x.com/abhie2005" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X" />
+  <a href="https://x.com/abhie2005">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="28" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/abhishek-rangani" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" height="28" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/_abhie_.4" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="28" height="28" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-
-<a href="https://open.spotify.com/user/31ykfzrt55iz4ulg7fn4bl22rhk4" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" width="28" height="28" />
-</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abhishek-rangani">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/_abhie_.4">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31ykfzrt55iz4ulg7fn4bl22rhk4">
+    <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" width="28" />
+  </a>
+  &nbsp;&nbsp;
+</p>
   
 </p>
 
