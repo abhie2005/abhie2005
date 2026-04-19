@@ -76,6 +76,8 @@
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/Lightroom-black?style=flat-square&logo=adobelightroom"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-black?style=flat-square&logo=adobepremierepro"/>
 </div>
 
 ---
