@@ -56,7 +56,6 @@
 ---
 <h3 align="left">Tech Stack</h3>
 
-<hr>
 <div style="display:flex;flex-wrap:wrap;gap:8px;">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
