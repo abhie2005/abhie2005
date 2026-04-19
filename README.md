@@ -33,8 +33,6 @@
 
 </p>
 
----
-
 - I’m currently working on **[Crease](https://github.com/abhie2005/Crease)** — a production ready React Native app featuring real time scoring, role based access control, Firebase backed auth, and live data synchronization
 
 - I’m looking to collaborate on  
@@ -76,7 +74,4 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-black?style=flat-square&logo=adobelightroom&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-black?style=flat-square&logo=adobepremierepro&logoColor=white)
-
----
-
 
