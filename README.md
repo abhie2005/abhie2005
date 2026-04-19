@@ -53,31 +53,29 @@
 - 📄 Know about my experiences : 
   **[Resume](https://drive.google.com/file/d/12vJPmf3pcXZT9WHIEklJhu93fSDTnBpW/view?usp=sharing)**
 
----
-<h3 align="left">Tech Stack</h3>
-
-<div style="display:flex;flex-wrap:wrap;gap:8px;">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/REST_APIs-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/Lightroom-black?style=flat-square&logo=adobelightroom"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-black?style=flat-square&logo=adobepremierepro"/>
-</div>
+## Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-black?style=flat-square&logo=adobelightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-black?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ---
 
