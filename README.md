@@ -56,39 +56,27 @@
 ---
 <h3 align="left">Tech Stack</h3>
 
-<p>
-<a href="https://reactnative.dev/">React Native</a> • 
-<a href="https://reactjs.org/">React</a> • 
-<a href="https://nodejs.org/">Node.js</a> • 
-<a href="https://expressjs.com/">Express</a> • 
-<a href="https://www.mongodb.com/">MongoDB</a> • 
-<a href="https://www.mysql.com/">MySQL</a> • 
-<a href="https://www.sqlite.org/">SQLite</a> • 
-<a href="https://firebase.google.com/">Firebase</a> • 
-<a href="https://cloud.google.com/">GCP</a> • 
-<a href="https://www.typescriptlang.org/">TypeScript</a> • 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> • 
-<a href="https://www.python.org/">Python</a> • 
-<a href="https://www.java.com/">Java</a> • 
-<a href="https://www.w3schools.com/cpp/">C++</a> • 
-<a href="https://flutter.dev/">Flutter</a> • 
-<a href="https://tailwindcss.com/">Tailwind</a> • 
-<a href="https://www.w3.org/html/">HTML</a> • 
-<a href="https://www.w3schools.com/css/">CSS</a> • 
-<a href="https://git-scm.com/">Git</a> • 
-<a href="https://www.linux.org/">Linux</a> • 
-<a href="https://pandas.pydata.org/">Pandas</a> • 
-<a href="https://d3js.org/">D3.js</a> • 
-<a href="https://www.chartjs.org/">Chart.js</a> • 
-<a href="https://dart.dev/">Dart</a> • 
-<a href="https://expo.dev/">Expo</a> • 
-<a href="https://www.photoshop.com/">Photoshop</a>
-</p>
-
----
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhie2005&" alt="abhie2005" />
-</p>
+<hr>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo"/>
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/REST_APIs-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3"/>
+</div>
 
 ---
 
