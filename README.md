@@ -6,7 +6,7 @@
   />
 
 <p align="right">
-  <a href="https://x.com/abhie2005">
+  <a href="https://x.com/abhiex04">
     <img src="https://cdn.simpleicons.org/x/ffffff" width="28" />
   </a>
   &nbsp;&nbsp;
